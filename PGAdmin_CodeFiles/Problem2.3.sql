@@ -1,0 +1,1 @@
+SELECT COUNT(title), rating FROM film GROUP BY rating

@@ -1,0 +1,1 @@
+SELECT store_id FROM store

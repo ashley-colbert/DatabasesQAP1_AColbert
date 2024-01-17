@@ -1,0 +1,1 @@
+SELECT last_name, first_name, customer_id FROM customer ORDER BY last_name
